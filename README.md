@@ -2,7 +2,7 @@
 Создайте index.html в котором подключите js script.
 Создайте README.md с описанием задания.
 Добавить следующий шаблон в html
-<!-- <h2>Test header <i>test</i></h2> -->
+<h2>Test header <i>test</i></h2>
 <h2 class="test">Test header 2</h2>
 <h2 class="test">Test header 3</h2>
 <h3>Test header h3</h3>
